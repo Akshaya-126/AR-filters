@@ -1,0 +1,44 @@
+studioVersion:
+  major: 5
+  minor: 17
+  patch: 1
+  build: 25121920
+  type: Public
+coreVersion: 340
+clientVersion: 13.70
+updateCheckpoint: 83
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: "#Manifest"
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  platformBundlesEnabled: false
+  iconHash: 4386110e97af0f363aa1e1f9b10f593e
+  videoPreviewHash: ""
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.6.2.25021502
+  activationCamera: Front
+  sourceMapEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: 4c09f923-8566-445b-ae06-44b31901f777
+  originalDocumentId: 4c09f923-8566-445b-ae06-44b31901f777
