@@ -1,0 +1,43 @@
+studioVersion:
+  major: 5
+  minor: 17
+  patch: 1
+  build: 25121920
+  type: Public
+  buildFlavor: release
+  timestamp: 1766129396000
+  commit: 8e427dbe7f510bdfd8653b3bfff0855c62382a61
+updateCheckpoint: 83
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: No Simulation
+    cameraFov: 66.519997
+    fullFrameAspect: nan
+    resolutionScale: 1.000000
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Unknown
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Untitled
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  platformBundlesEnabled: false
+  iconHash: ""
+  videoPreviewHash: ""
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.6.2.25021502
+  activationCamera: Front
+  sourceMapEnabled: false
